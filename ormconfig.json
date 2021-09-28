@@ -1,11 +1,11 @@
 {
   "name": "default",
-  "type": "postgres",
+  "type": "db type",
   "host": "localhost",
   "port": 5432,
-  "username": "postgres",
-  "password": "niffyreeve10",
-  "database": "citrus",
+  "username": "your username",
+  "password": "your password",
+  "database": "db name",
   "synchronize": true,
   "logging": true,
   "entities": ["src/entities/*.*"]
